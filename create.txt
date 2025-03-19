@@ -27,3 +27,6 @@ mkdir my_ecommerce
 cd my_ecommerce
 touch app.py
   }
+Here I have taken only one product for my convenience we can take as many we want,but we want to change code in python backened(app.py) based on our products. 
+These are just steps for creating and installing.
+This is just basic level of creation of E Commerce website.
