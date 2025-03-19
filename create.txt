@@ -1,0 +1,29 @@
+step 1:
+Create HTML Templates:
+Create templates for home, product listing, product detail, cart, and checkout pages.
+  step 2: 
+  Setting Up the Environment
+Install Python:
+
+Ensure you have Python installed on your machine.
+Set Up a Virtual Environment:
+  {
+python -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+  }
+Install Required Packages:
+
+For Flask:
+{
+pip install Flask Flask-SQLAlchemy Flask-Migrate Flask-Login
+  }
+
+Step 3: Backend Development
+Create a New Project:
+
+For Flask:
+{
+mkdir my_ecommerce
+cd my_ecommerce
+touch app.py
+  }
